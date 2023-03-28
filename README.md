@@ -1,2 +1,3 @@
 # cms-scan
-onlywp menggunakan python 3
+onlywp.py menggunakan python 3
+scancmsall.py menggunakan python2
